@@ -1,0 +1,23 @@
+{
+  "name": "todov2",
+  "version": "1.0.0",
+  "description": "To do list website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstaton477/todov2.git"
+  },
+  "author": "mstaton477 <mstaton477@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstaton477/todov2/issues"
+  },
+  "homepage": "https://github.com/mstaton477/todov2#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
